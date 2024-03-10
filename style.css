@@ -1,0 +1,14 @@
+p {
+    text-align: center;
+    color: blue;
+}
+
+#para1 {
+    text-align: justify;
+    color: red;
+}
+
+.center {
+    text-align: center;
+    color: aqua;
+}
